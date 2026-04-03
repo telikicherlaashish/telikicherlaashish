@@ -4,7 +4,7 @@ I'm **Ashish Telikicherla**, a **Senior Data Analyst** with 4+ years of experien
 
 ## What I Do
 
-I design, optimize, and govern large-scale data pipelines. Currently working on wholesale banking data projects where I've delivered measurable impact: standardized 200+ data attributes, improved query performance by ~30%, and reduced data inconsistencies by ~25%.
+I build reliable, scalable data systems that power critical business decisions. I specialize in data architecture, ETL optimization, and governance frameworks—transforming complex, multi-source datasets into clean, trustworthy analytics. Currently delivering impact on enterprise-scale projects: standardized 200+ data attributes, optimized query performance by 30%, and eliminated 25% of data inconsistencies.
 
 ## My Tech Stack
 
